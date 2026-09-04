@@ -1,3 +1,6 @@
-# 审核类文档不随源码仓库发布（仓库保持轻量：index.html + README + LICENSE）
+# 审核类文档不随源码仓库发布（仓库保持轻量：index.html + LICENSE）
 AUDIT.md
 CROSS-VALIDATION.md
+
+# Cloudflare 部署用的本地临时目录（仅本地，不上传）
+cloudflare-deploy/
